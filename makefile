@@ -1,2 +1,2 @@
-prog: main.c a.c
-	gcc -o prog main.c a.c
+prog: main.c a.c v.c
+	gcc -o prog main.c a.c v.c
